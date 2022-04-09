@@ -1,0 +1,4 @@
+﻿  Printf.cpp
+C:\Users\Arwers\source\repos\Zajęcia\sem2\PRINTF\Printf\Printf.cpp(54,30): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\Arwers\source\repos\Zajęcia\sem2\PRINTF\Printf\Printf.cpp(54,24): warning C4309: 'argument': truncation of constant value
+  Printf.vcxproj -> C:\Users\Arwers\source\repos\Zajęcia\sem2\PRINTF\Printf\x64\Debug\Printf.exe
